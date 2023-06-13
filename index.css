@@ -1,0 +1,87 @@
+/* index.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 200px;
+    background-color: #290320;
+    background-image: url("download\ \(1\).jpg"); 
+    color: #f1e5ef;
+  }
+  
+  header {
+    background-color: #54244a;
+    color: #f1e5ef;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  header h1 {
+    font-size: 48px;
+    margin: 0;
+  }
+  
+  header p {
+    font-size: 24px;
+    margin: 20px 0px;
+  }
+
+  #features {
+    background-color: #54244a;
+  }
+  
+  section {
+    padding: 50px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 30px;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  #cta-section {
+    background-color: #54244a;
+    padding: 50px;
+  }
+  
+  .cta-section p {
+    margin-bottom: 30px;
+  }
+  
+  .cta-button {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: #892171;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+    font-size: 20px;
+  }
+  
+  .cta-button:hover {
+    background-color: #54244a;
+  }
+  
+  footer {
+    background-color: #54244a;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer p {
+    font-size: 14px;
+    margin: 0;
+  }
+  
